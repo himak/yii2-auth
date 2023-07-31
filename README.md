@@ -1,3 +1,9 @@
+# Yii2 Basic App with Auth
+
+   composer install
+   yii migrate --migrationPath=@yii/rbac/migrations
+   yii migrate
+
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
